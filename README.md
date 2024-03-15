@@ -1,1 +1,1 @@
-"# runeterra_database" 
+"runeterra_database" is a software to describe each of the many regions, locations and characters in the vast universe called Runeterra.
