@@ -1,6 +1,6 @@
 import '../region.dart';
 import 'bilgewater/bilgewater_characters_repository.dart';
-import 'bilgewater/bilgewater_places.repository.dart';
+import 'bilgewater/bilgewater_places_repository.dart';
 
 class RegionRepository {
   static List<Region> regionsTable = [
